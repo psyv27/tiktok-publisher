@@ -1,0 +1,45 @@
+# Dependencies
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Secrets/credentials
+config/api_credentials.json
+config/cookies.json
+*.secret
+.env
+*.key
+*.pem
+
+# Video files (don't commit videos)
+*.mp4
+*.mov
+*.avi
+*.mkv
+downloads/
+
+# Logs
+*.log
+logs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+temp/
+tmp/

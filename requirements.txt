@@ -1,0 +1,4 @@
+playwright==1.41.0
+pyyoutube==19.4.3
+yt-dlp==2024.2.10
+python-dotenv==1.0.1
