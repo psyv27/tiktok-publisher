@@ -43,3 +43,8 @@ Thumbs.db
 *.tmp
 temp/
 tmp/
+cookies.json
+config/cookies_playwright.json
+config/credentials.json
+.gh_token
+*.ghp_*
